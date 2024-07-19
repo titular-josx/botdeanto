@@ -10,8 +10,8 @@
 #### Creador y Dueño: Angelito⚡
 
 
-### CONTACTOS 💻
-<p>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=400&color=ff006f&center=true&vCenter=true&width=885&height=50&lines=CONTACTAME" alt="Typing SVG" /></a>
 
 
  <a href="http://www.instagram.com/usxr_angelito" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram" /></a>
