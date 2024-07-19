@@ -1,4 +1,6 @@
-### 🔮 XIA BOT-MD 🔮
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=700&color=45E7F7&center=true&vCenter=true&width=885&height=50&lines=🏴+𝙈𝙄𝙆𝘼𝙎𝘼+𝘽𝙊𝙏+-+𝙈𝘿" alt="Typing SVG" /></a>
+
 <p align="center">
 <img src="https://telegra.ph/file/39b0aa3fe324550a3000a.jpg" alt="XiaBot-MD" width="900"/>
 </p>
