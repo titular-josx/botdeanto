@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=700&color=ff006f&center=true&vCenter=true&width=885&height=50&lines=🏴+𝙈𝙄𝙆𝘼𝙎𝘼+𝘽𝙊𝙏+-+𝙈𝘿" width="900" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=700&color=ff006f&center=true&vCenter=true&width=885&height=50&lines=🏴+𝙈𝙄𝙆𝘼𝙎𝘼+𝘽𝙊𝙏+-+𝙈𝘿" width="1500" alt="Typing SVG" /></a>
 
 <p align="center">
 <img src="https://th.bing.com/th/id/OIG2.6DYzgwS1ijLpt6wLkkQm?w=1024&h=1024&rs=1&pid=ImgDetMain" alt="𝙈𝙄𝙆𝘼𝙎𝘼 𝘽𝙊𝙏 - 𝙈𝘿" width="900"/>
