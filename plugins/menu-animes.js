@@ -18,7 +18,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const taguser = '@' + m.sender.split('@s.whatsapp.net')[0];
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
-    const str = `┏━━━━•𝘾𝙃𝘼𝙉𝙂𝙐𝙄𝙏𝙊 𝙎𝙀𝙓 - 𝙈𝘿•━━━━┓
+    const str = `┏━━━━•𝘾𝙀𝙇𝙀𝙀𝙀 𝘽𝙊𝙏 - 𝙈𝘿•━━━━┓
 ┃╭─────────♡─────────╮
 ┃┊•¡𝙃𝙊𝙇𝘼! @${m.sender.split`@`[0]}
 ┃┊• https://whatsapp.com/channel/0029VajUEsCB4hdNTg04zh1u
