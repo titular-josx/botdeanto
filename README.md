@@ -5,10 +5,8 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=400&color=ff002f&center=true&vCenter=true&width=885&height=50&lines=𝙈𝙄𝙆𝘼𝙎𝘼+𝘽𝙊𝙏+-+𝙈𝘿" alt="Typing SVG" /></a>
 
-#### Version De Xia: 3.3.0 
-
-#### Creador y Dueño: Angelito⚡
-
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=400&color=ff00f2&center=true&vCenter=true&width=885&height=50&lines=𝙑𝙀𝙍𝙎𝙄𝙊𝙉+1.0.0" alt="Typing SVG" /></a>
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=400&color=ff006f&center=true&vCenter=true&width=885&height=50&lines=𝘾𝙊𝙉𝙏𝘼𝘾𝙏𝘼𝙈𝙀:" alt="Typing SVG" /></a>
