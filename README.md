@@ -1,9 +1,9 @@
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=400&color=ff002f&center=true&vCenter=true&width=885&height=50&lines=𝙈𝙄𝙆𝘼𝙎𝘼+𝘽𝙊𝙏+-+𝙈𝘿" alt="Typing SVG" /></a>
+
 <p align="center">
 <img src="https://th.bing.com/th/id/OIG2.6DYzgwS1ijLpt6wLkkQm?w=1024&h=1024&rs=1&pid=ImgDetMain" alt="𝙈𝙄𝙆𝘼𝙎𝘼 𝘽𝙊𝙏 - 𝙈𝘿" width="900"/>
 </p>
-
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=400&color=ff002f&center=true&vCenter=true&width=885&height=50&lines=𝙈𝙄𝙆𝘼𝙎𝘼+𝘽𝙊𝙏+-+𝙈𝘿" alt="Typing SVG" /></a>
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=400&color=ff006f&center=true&vCenter=true&width=885&height=50&lines=𝘾𝙊𝙉𝙏𝘼𝘾𝙏𝘼𝙈𝙀:" alt="Typing SVG" /></a>
@@ -19,8 +19,3 @@
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=400&color=ff00f2&center=true&vCenter=true&width=885&height=50&lines=𝙑𝙀𝙍𝙎𝙄𝙊𝙉+1.0.0" alt="Typing SVG" /></a>
-
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=400&color=ff00f2&center=true&vCenter=true&width=885&height=50&lines=𝙏𝙄𝙏𝙐𝙇𝘼𝙍:" alt="Typing SVG" /></a>
-[![Karim-off](https://github.com/Karim-off.png?size=100)](https://github.com/Karim-off) 
-> Copyright (c) 2024 **[titular](https://github.com/Karim-off/XiaBot-Pro/blob/master/LICENSE)**.
