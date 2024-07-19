@@ -5,7 +5,7 @@ const handler = async (m, {conn, usedPrefix}) => {
   } finally {
     const name = await conn.getName(m.sender);
     const taguser = '@' + m.sender.split('@s.whatsapp.net')[0];
-    const str = `┏━━━━•𝘾𝙃𝘼𝙉𝙂𝙐𝙄𝙏𝙊 𝙎𝙀𝙓 - 𝙈𝘿•━━━━┓
+    const str = `┏━━━━•𝘾𝙀𝙇𝙀𝙀𝙀 𝘽𝙊𝙏 - 𝙈𝘿•━━━━┓
 ┃╭─────────♡─────────╮
 ┃┊•¡𝙃𝙊𝙇𝘼! @${m.sender.split`@`[0]}
 ┃┊• https://whatsapp.com/channel/0029VajUEsCB4hdNTg04zh1u
