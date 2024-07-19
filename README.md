@@ -15,8 +15,7 @@
 
 </p> 
 
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=400&color=ff7abd&center=true&vCenter=true&width=885&height=50&lines=𝘾𝘼𝙉𝘼𝙇+𝙊𝙁𝙄𝘾𝙄𝘼𝙇" alt="Typing SVG" /></a>
+
 
 <a href="https://whatsapp.com/channel/0029VajUEsCB4hdNTg04zh1u" target="blank"><img src="https://img.shields.io/badge/𝘾𝘼𝙉𝘼𝙇_𝙊𝙁𝙄𝘾𝙄𝘼𝙇-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
