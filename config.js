@@ -10,9 +10,9 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['5493585715437', '𝘾𝙀𝙇𝙀𝙀𝙀 𝘽𝙊𝙏 - 𝙈𝘿 (NO VENTAS)', true],
+  ['56978708299', '𝙆𝙇𝙊𝙐𝙕𝙄 𝘽𝙊𝙏 - 𝙈𝘿 (NO VENTAS)', true],
   ['51936732723', '𝘾𝙍𝙀𝘼𝘿𝙊𝙍 (SI VENTAS)', true],
-  ['5493856772467', '𝘾𝙀𝙇𝙀𝙀𝙀 (NO VENTAS)', true],
+  ['56945524869', '𝙆𝙇𝙊𝙐𝙕 (NO VENTAS)', true],
   ['', '', true],
   ['', '', true],
   ['', '', true],
@@ -35,8 +35,8 @@ global.owner = [
 global.suittag = ['51936732723'];
 global.prems = ['51936732723'];
 
-global.packname = '𝙈𝙄𝙆𝘼𝙎𝘼 𝘽𝙊𝙏';
-global.author = '𝙈𝙄𝙆𝘼𝙎𝘼 𝘽𝙊𝙏';
+global.packname = '𝙈𝙄𝙆𝘼𝙎𝘼 𝘽𝙊𝙏 - 𝙈𝘿';
+global.author = '𝙈𝙄𝙆𝘼𝙎𝘼 𝘽𝙊𝙏 - 𝙈𝘿';
 global.wm = '𝙈𝙄𝙆𝘼𝙎𝘼 𝘽𝙊𝙏';
 global.titulowm = '𝙈𝙄𝙆𝘼𝙎𝘼 𝘽𝙊𝙏';
 global.titulowm2 = `𝙈𝙄𝙆𝘼𝙎𝘼 𝘽𝙊𝙏`
