@@ -6,11 +6,11 @@ const handler = async (m, {isOwner, isAdmin, conn, text, participants, args, com
   }
   const pesan = args.join` `;
 const oi = `✉️ 𝙈𝙀𝙉𝙎𝘼𝙅𝙀: ${pesan}\n👤 𝙈𝙄𝙀𝙈𝘽𝙍𝙊𝙎: _*${participants.length}*_`;
-  let teks = `𝑪𝑨𝑵𝑨𝑳 𝑶𝑭𝑰𝑪𝑰𝑨𝑳\nhttps://whatsapp.com/channel/0029VajUEsCB4hdNTg04zh1u\n\n ${oi}\n\n┏・𝙆𝙇𝙊𝙐𝙕𝙄 𝘽𝙊𝙏 - 𝙈𝘿\n`;
+  let teks = `𝑪𝑨𝑵𝑨𝑳 𝑶𝑭𝑰𝑪𝑰𝑨𝑳\nhttps://whatsapp.com/channel/0029VajUEsCB4hdNTg04zh1u\n\n ${oi}\n\n┏・𝘼𝙉𝙏𝙊 𝘿𝙕𝙉 - 𝙈𝘿\n`;
   for (const mem of participants) {
-    teks += `┣・︎︎︎👑 @${mem.id.split('@')[0]}\n`;
+    teks += `┣・︎︎︎💗 @${mem.id.split('@')[0]}\n`;
   }
-  teks += `┗・𝙆𝙇𝙊𝙐𝙕𝙄 𝘽𝙊𝙏 - 𝙈𝘿`;
+  teks += `┗・𝘼𝙉𝙏𝙊 𝘿𝙕𝙉 - 𝙈𝘿`;
   conn.sendMessage(m.chat, {text: teks, mentions: participants.map((a) => a.id)} );
 };
 handler.help = ['tagall <mesaje>', 'invocar <mesaje>'];
