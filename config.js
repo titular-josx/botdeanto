@@ -10,9 +10,9 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['56978708299', '𝙆𝙇𝙊𝙐𝙕𝙄 𝘽𝙊𝙏 - 𝙈𝘿 (NO VENTAS)', true],
+  ['56927170877', '𝘼𝙉𝙏𝙊 𝘿𝙕𝙉 - 𝙈𝘿 (NO VENTAS)', true],
   ['51936732723', '𝘾𝙍𝙀𝘼𝘿𝙊𝙍 (SI VENTAS)', true],
-  ['56945524869', '𝙆𝙇𝙊𝙐𝙕 (NO VENTAS)', true],
+  ['56949634570', '𝘼𝙉𝙏𝙊 (NO VENTAS)', true],
   ['', '', true],
   ['', '', true],
   ['', '', true],
